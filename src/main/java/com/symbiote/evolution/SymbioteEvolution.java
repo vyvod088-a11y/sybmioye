@@ -81,7 +81,7 @@ public class SymbioteEvolution implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL_BLOCKS)
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS)
                 .register(entries -> entries.add(METEORITE_ITEM));
         FabricDefaultAttributeRegistry.register(SYMBIOTE, SymbioteEntity.createAttributes());
 
