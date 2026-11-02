@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "symbiote_evolution",
+  "version": "${version}",
+  "name": "Symbiote Evolution",
+  "description": "A single-player symbiote adventure: discover a meteorite, bond with a living alien, and unlock evolving forms.",
+  "authors": [
+    "Symbiote Evolution Team"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.symbiote.evolution.SymbioteEvolution"
+    ],
+    "client": [
+      "com.symbiote.evolution.client.SymbioteClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "icon": "assets/symbiote_evolution/icon.png"
+}

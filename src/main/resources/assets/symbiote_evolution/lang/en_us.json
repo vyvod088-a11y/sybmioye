@@ -1,0 +1,9 @@
+{
+  "block.symbiote_evolution.meteorite": "Fallen Meteorite",
+  "key.symbiote_evolution.toggle": "Toggle Symbiosis",
+  "key.symbiote_evolution.form": "Change Symbiote Form",
+  "category.symbiote_evolution": "Symbiote Evolution",
+  "key.symbiote_evolution.talk": "Talk to symbiote",
+  "key.symbiote_evolution.ability": "Use symbiote ability",
+  "itemGroup.symbiote_evolution": "Symbiote Evolution"
+}

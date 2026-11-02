@@ -1,0 +1,9 @@
+{
+  "block.symbiote_evolution.meteorite": "Упавший метеорит",
+  "key.symbiote_evolution.toggle": "Включить / выключить слияние",
+  "key.symbiote_evolution.form": "Сменить форму симбиота",
+  "category.symbiote_evolution": "Symbiote Evolution",
+  "key.symbiote_evolution.talk": "Поговорить с симбиотом",
+  "key.symbiote_evolution.ability": "Использовать способность",
+  "itemGroup.symbiote_evolution": "Symbiote Evolution"
+}
